@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://personalsiteshrey.netlify.app/"
 languageCode = "en-us"
 title = "Shreyan Nageswaran"
 theme = "gokarna"
