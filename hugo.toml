@@ -90,5 +90,7 @@ theme = "gokarna"
   name = "LinkedIn"
   url = "https://www.linkedin.com/in/shreyan-nageswaran"
 
-  
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
     
