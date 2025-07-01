@@ -1,0 +1,16 @@
+{{ define "main" }}
+  <div class="container list-posts">
+
+    <h1 class="list-title">Education</h1>
+
+    {{ .Content }}
+
+    {{ range (where .Pages "Section" "education").GroupByDate "2006" }}
+      <h2 class="posts-year">{{ .Key }}</h2>
+      {{ range .Pages }}
+        {{ partial "list-posts.html" . }}
+      {{ end }}
+    {{ end }}
+
+  </div>
+{{ end }}

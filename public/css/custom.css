@@ -1,0 +1,11 @@
+.avatar {
+  border: 2px dashed blue;
+}
+
+.avatar img {
+  border: 2px solid red;
+}
+
+footer.footer, .footer {
+  font-size: 0.75rem !important;
+}

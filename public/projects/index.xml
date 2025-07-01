@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Shreyan Nageswaran</title>
+    <link>//localhost:1313/projects/</link>
+    <description>Recent content in Projects on Shreyan Nageswaran</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aabhra Analytics Engine</title>
+      <link>//localhost:1313/projects/aabhra-analytics-engine/</link>
+      <pubDate>Thu, 12 Jun 2025 14:24:52 +0100</pubDate>
+      <guid>//localhost:1313/projects/aabhra-analytics-engine/</guid>
+      <description>&lt;h3 id=&#34;description&#34;&gt;Description:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Built a Spring Boot project with an Antlr integration in order to process a given grammar and convert it to an execution graph.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Leveraged JPA to retrieve data needed when processing the execution graph.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Beat The Bookmaker</title>
+      <link>//localhost:1313/projects/beat-the-bookmaker/</link>
+      <pubDate>Wed, 28 Aug 2024 14:07:42 +0100</pubDate>
+      <guid>//localhost:1313/projects/beat-the-bookmaker/</guid>
+      <description>&lt;h3 id=&#34;description&#34;&gt;Description:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Developed a comprehensive research project, which involved the use of machine learning models such as a Decision Tree Regressor and a Poisson Distribution, to predict National Football League scores.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;The project was further extended to see if these models can place more accurate predictions by creating model-derived win probabilities and comparing them against those from leading bookmakers.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Achieved a mark of 79, placing in the distinction category.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Stamina</title>
+      <link>//localhost:1313/projects/stamina/</link>
+      <pubDate>Wed, 05 Apr 2023 15:36:27 +0100</pubDate>
+      <guid>//localhost:1313/projects/stamina/</guid>
+      <description>&lt;h3 id=&#34;description&#34;&gt;Description:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Built an end-to-end online personal training web application, coded in React, where users can create their own workout programs and receive guidance through Artificial Intelligence generated feedback.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Integrated LLMs for generation of workout feedback via carefully engineered prompts.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

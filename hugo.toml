@@ -1,0 +1,94 @@
+baseURL = ""
+languageCode = "en-us"
+title = "Shreyan Nageswaran"
+theme = "gokarna"
+
+[menu]
+  [[menu.main]]
+    # Display name
+    name = "Projects"
+
+    # Relative URL slug (appended to baseURL)
+    url = "/projects/"
+
+    # Lower weights are listed first in the menu (leftmost); higher weights are
+    # listed last in the menu (rightmost)
+    weight = 1
+
+  [[menu.main]]
+    # Display name
+    name = "Experience"
+
+    # Relative URL slug (appended to baseURL)
+    url = "/experience/"
+
+    # Lower weights are listed first in the menu (leftmost); higher weights are
+    # listed last in the menu (rightmost)
+    weight = 2
+
+  [[menu.main]]
+    # Display name
+    name = "Education"
+
+    # Relative URL slug (appended to baseURL)
+    url = "/education/"
+
+    # Lower weights are listed first in the menu (leftmost); higher weights are
+    # listed last in the menu (rightmost)
+    weight = 3
+
+[params]
+  # Choose the color shown when hyperlinks are hovered over
+  accentColor = "#FF4D4D"
+
+  customCSS = ["css/custom.css"]
+
+  # Resource URL for the site avatar (home page and header)
+  avatarURL = "/images/realavatar.png"
+
+  # Describe the avatar for screen readers
+  avatarAltText = "avatar"
+
+  # Set the avatar's size: size-xs, size-s, size-m, size-l & size-xl
+  avatarSize = "size-xs"
+
+  # Inject arbitrary HTML via the <head> tag
+  # Best used for importing custom JavaScript, CSS, or analytics
+  customHeadHTML = ""
+
+  # Configure how post dates are displayed
+  dateFormat = "January 2, 2006"
+  
+  # Home page meta description
+  description = "<br>I am an Engineer, Data Scientist, and Trainer driven to build in industries I care about - especially those that empower others to reach their full potential. Currently, that is through building <a href='https://agni.fit' target='_blank' rel='noopener'>agni.fit</a>.</br><br> If you would like to chat, feel free to <a href='mailto:shreyan.nageswaran@outlook.com'>contact me</a>!</br>"
+
+  # Footer text (i.e. author/project name)
+  footer = " "
+
+  # Define SEO keywords
+  metaKeywords = ["blog", "gokarna", "hugo"]
+
+  # Define how many posts are displayed on the home page
+  # showPostsOnHomePage must be "popular" or "recent"
+  numberPostsOnHomePage = 4
+
+  # Display a "back to top" button on posts and pages: true, false
+  # May not render on smaller screen sizes
+  showBackToTopButton = true
+
+  # Display posts on the home page:
+  # "popular" (order posts by weight)
+  # "recent" (order posts by date)
+  # "", unset (do not display)
+  showPostsOnHomePage = ""
+
+  # Show the previous and next post in your timeline: "true", "false"
+  # Incompatible with Weight
+  togglePreviousAndNextButtons = false
+
+  [[params.socialIcons]]
+  name = "LinkedIn"
+  url = "https://www.linkedin.com/in/shreyan-nageswaran"
+
+  
+    
